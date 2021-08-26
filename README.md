@@ -1,24 +1,21 @@
 # note
 
-## Project setup
+## Объяснение
+
+Приложение, которое генерирует из конфига боковую панель и страницу с компонентами кнопки и таблицу
+Конфиги находятся в src/config
+По времени был только вечер, поэтому использовал vue-cli, так как хотел сфокусировать на основном
+Ссылка на Github Pages https://4toc.github.io/note/
+
+## Установка
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Запуск
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
