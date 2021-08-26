@@ -1,0 +1,51 @@
+[
+  {
+    "id": "24",
+    "data": [
+      {
+        "type": "table",
+        "data": {
+          "name": "Список пользователей",
+          "th": [
+            {
+              "name": "ID",
+              "icon": "ListIcon",
+              "type": "id"
+            },
+            {
+              "name": "Имя",
+              "icon": "UserIcon",
+              "type": "text"
+            },
+            {
+              "name": "Email",
+              "icon": "MailIcon",
+              "type": "text"
+            },
+            {
+              "name": "Статус",
+              "icon": "InfoIcon",
+              "type": "text"
+            },
+            {
+              "name": "Действия",
+              "icon": "DiscIcon",
+              "type": "action"
+            }
+          ],
+          "tr": [
+            [5671, "Alex Stone", "alexstone.gr@gmail.com", "✅ активен", ""],
+            [5671, "Alex Stone", "alexstone.gr@gmail.com", "✅ активен", ""]
+          ]
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "title": "Добавить пользователя",
+          "link": "/link"
+        }
+      }
+    ]
+  }
+]
