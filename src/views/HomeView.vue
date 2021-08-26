@@ -25,6 +25,7 @@ export default Vue.extend({
 <style lang="scss">
 .home {
   height: 100vh;
+  position: fixed;
   display: flex;
   widows: 100%;
   &__sidebar {
